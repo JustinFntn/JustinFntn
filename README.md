@@ -9,6 +9,8 @@ I discovered computer programming during my bachelor's degree in mathematics whi
 * 🌍  I'm based in Boulogne-sur-mer
 * ✉️  You can contact me at [justin.fntn@icloud.com](mailto:justin.fntn@icloud.com)
 
+<img src="https://www.sociedelic.com/wp-content/uploads/2016/10/10_void_animated.gif" width="500" align="right"/>
+
 <a href="https://www.twitter.com/justin_fntn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/justin_fntn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
