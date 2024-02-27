@@ -9,7 +9,6 @@ I discovered computer programming during my bachelor's degree in mathematics whi
 * 🌍  I'm based in Boulogne-sur-mer
 * ✉️  You can contact me at [justin.fntn@icloud.com](mailto:justin.fntn@icloud.com)
 
-<img src="https://www.sociedelic.com/wp-content/uploads/2016/10/10_void_animated.gif" width="500" align="right"/>
 
 <a href="https://www.twitter.com/justin_fntn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/justin_fntn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -36,6 +35,8 @@ src="https://img.shields.io/twitter/follow/justin_fntn?logo=twitter&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/justin_fntn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/justin.fontaine.7509" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/JustinFntn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/justin_fntn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/justin-fontaine-64baa7261/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/justin_fntn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+![snakeGif](https://github.com/JustinFntn/JustinFntn/blob/output/github-contribution-grid-snake.svg)
 
 ### Badges
 
