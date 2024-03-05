@@ -1,4 +1,4 @@
-Hi! ![](./Justin.gif)
+![](./Justin.gif)
 ==============================================================================================================================
 
 Student in a Bachelor's degree program in Computer Science. Actively seeking a "sandwich course" in software development for the next two years
