@@ -44,4 +44,11 @@ src="https://img.shields.io/twitter/follow/justin_fntn?logo=twitter&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/JustinFntn/Jeu-de-dames" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinFntn&repo=Jeu-de-dames&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a><a href="https://github.com/JustinFntn/JeuEchec" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinFntn&repo=JeuEchec&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/JustinFntn/pokedex-api" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinFntn&repo=pokedex-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  </a>
+  <a href="https://github.com/JustinFntn/JeuEchec" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinFntn&repo=JeuEchec&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
