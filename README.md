@@ -6,7 +6,7 @@ I am a student in a Bachelor's degree program in Computer Science, alternating m
 
 I discovered computer programming during my bachelor's degree in Mathematics while working on practical assignments in Python. Now, I am familiar with various programming languages, and I thoroughly enjoy exploring new things every day
 
-* 🌍  Based in Boulogne-sur-mer and Lille
+* 🌍  Based in Lille
 * ✉️  You can contact me at [justin.fntn@icloud.com](mailto:justin.fntn@icloud.com)
 
 
